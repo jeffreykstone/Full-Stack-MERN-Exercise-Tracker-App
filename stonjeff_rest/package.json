@@ -1,0 +1,18 @@
+{
+  "name": "exercises-rest",
+  "version": "1.0.0",
+  "description": "Exercise Tracker App",
+  "main": "exercises_controller.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon exercises_controller.mjs"
+  },
+  "author": "Gent Stone",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5",
+    "nodemon": "^2.0.16"
+  }
+}

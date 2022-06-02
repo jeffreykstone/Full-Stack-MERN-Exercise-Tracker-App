@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  position: absolute;
+  top: 0;
+  padding: 10px;
+  width: 99%;
+  font-family: Futura;
+  font-weight: 900;
+  font-style: bold;
+  font-variant: normal;
+  font-size: calc(16px +2vmin);
+  color: steelblue;
+}
+
+p {
+  position: relative;
+  font-family: Futura, "Eurostile", Arial, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  margin: 5px;
+}
+
+h2 {
+  padding: 10px;
+  font-family: Futura;
+  font-style: normal;
+  font-weight: 700;
+  font-variant: normal;
+  font-size: calc(14px+2vmin);
+  color: steelblue;
+}
+
+body {
+  font-family: Futura, "Eurostile", Arial, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  min-height: 70vh;
+  display: flex;
+  width: 99%;
+  flex-direction: column;
+  font-size: calc(14px);
+  background: white;
+  color: grey;
+  margin: 1%;
+  padding: 1%;
+}
+
+table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  table-layout: fixed;
+  border: 3px solid steelblue;
+  border-collapse: collapse;
+  width: 65%;
+}
+
+tr th {
+  font-style: underline;
+  text-align: left;
+  padding: 12px;
+  background-color: ivory;
+  border: 3px solid steelblue;
+}
+
+th,
+td {
+  padding: 20px;
+  font-size: calc(12px+1vmin);
+}
+
+tr,
+td {
+  font-size: calc(16px);
+  text-align: left;
+  padding: 8px;
+}
+
+
+.shoe {
+  padding-inline: 10px;
+}
+
+.icon:hover {
+  color: slategray;
+  cursor: pointer;
+}
+
+footer {
+  margin: 20px;
+}
