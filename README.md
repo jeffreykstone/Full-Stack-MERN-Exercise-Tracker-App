@@ -6,3 +6,7 @@
 ### Download the files as separate client (stonejeff_react) and server (stonjeff_rest) directories and run `npm install` for each from separate terminals. The client runs on localhost:8000 and the server runs on localhost:3000.
 
 ![HomePage](https://github.com/jeffreykstone/Full-Stack-MERN-Exercise-Tracker-App/blob/main/readme_images/Screen%20Shot%202022-06-01%20at%206.04.22%20PM.png)
+
+![AddExercisePage](https://github.com/jeffreykstone/Full-Stack-MERN-Exercise-Tracker-App/blob/main/readme_images/Screen%20Shot%202022-06-01%20at%206.04.33%20PM.png)
+
+![EditExercisePage](https://github.com/jeffreykstone/Full-Stack-MERN-Exercise-Tracker-App/blob/main/readme_images/Screen%20Shot%202022-06-01%20at%206.04.46%20PM.png)
